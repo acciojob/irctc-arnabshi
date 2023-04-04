@@ -25,6 +25,8 @@ public class Passenger {
 
     //passengers and tickets are many to manny
 
+
+
     public Passenger() {
     }
 
@@ -71,4 +73,3 @@ public class Passenger {
         this.bookedTickets = bookedTickets;
     }
 }
-
